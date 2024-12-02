@@ -1,0 +1,26 @@
+[
+    {
+        "src": "assets/images/galery-pic1.jpg",
+        "alt": "image1"
+    },
+    {
+        "src": "assets/images/galery-pic2.jpg",
+        "alt": "Image2"
+    },
+    {
+        "src": "assets/images/galery-pic3.jpg",
+        "alt": "Image3"
+    },
+    {
+        "src": "assets/images/galery-pic4.jpg",
+        "alt": "Image4"
+    },
+    {
+        "src": "assets/images/galery-pic5.jpg",
+        "alt": "Image5"
+    },
+    {
+        "src": "assets/images/galery-pic6.jpg",
+        "alt": "Image6"
+    }
+]
